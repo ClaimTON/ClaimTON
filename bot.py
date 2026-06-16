@@ -46,7 +46,8 @@ ClaimTON is a community movement built on the TON blockchain. We're on a mission
 🔹 <b>Claim your gift</b> in under a minute
 🔹 <b>Spread the word</b> and grow with us</blockquote>
 
-<b><a href="https://t.me">🐸 Follow the channel for the news - big things coming!</a></b>"""
+<b><a href="https://t.me">🐸 Follow the channel for the news - big things coming!</a></b>
+<b><a href="https://github.com/claimton/claimton">👾 GitHub Page</a></b>"""
 
 NOT_MEMBER_TEXT = """❌ <b>To use the bot, you need to connect it to your business account!</b>"""
 
