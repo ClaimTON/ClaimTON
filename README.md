@@ -65,7 +65,7 @@ Q1 2026  🔜  Official platform launch
 | Layer | Technology |
 |-------|-----------|
 | Blockchain | TON (The Open Network) |
-| Bot | Python · aiogram |
+| Bot | Python |
 | Smart Contract | FunC / Tact |
 | Infrastructure | VPS · Webhook |
 
