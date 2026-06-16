@@ -41,7 +41,6 @@ We believe that in blockchain, **a strong community is worth more than any marke
 We are committed to full transparency. Once the codebase is finalized and audited, everything will be open-sourced here no black boxes, no hidden logic.
 
 **Planned release includes:**
-- Telegram bot source code (Python / aiogra)
 - Smart contract on TON blockchain
 - Airdrop distribution logic
 - Admin dashboard
@@ -51,10 +50,10 @@ We are committed to full transparency. Once the codebase is finalized and audite
 ## 🗺️ Roadmap
 
 ```
-Q1 2025  ✅  Project concept & community building
+Q1 2024  ✅  Project concept & community building
 Q2 2025  ✅  Pre-launch airdrop campaign
 Q3 2025  🔄  Bot development & internal testing
-Q4 2025  🔜  Public code release on GitHub
+Q4 2026  🔜  Public code release on GitHub
 Q1 2026  🔜  Official platform launch
 ```
 
@@ -65,7 +64,7 @@ Q1 2026  🔜  Official platform launch
 | Layer | Technology |
 |-------|-----------|
 | Blockchain | TON (The Open Network) |
-| Bot | Python · aiogram |
+| Bot AirDrop | Python · aiogram |
 | Smart Contract | FunC / Tact |
 | Infrastructure | VPS · Webhook |
 
