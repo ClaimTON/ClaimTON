@@ -141,7 +141,6 @@ def kb_share(bot_username: str) -> InlineKeyboardMarkup:
     share_url = f"https://t.me/share/url?url=https://t.me/{bot_username}&text=🐸 Claim your free Telegram AirDrop on ClaimTON!"
     return InlineKeyboardMarkup(inline_keyboard=[
         [InlineKeyboardButton(text="📤 Share with friends", url=share_url)],
-        [InlineKeyboardButton(text="🌍 Visit claimton.in", url="https://claimton.in")]
     ])
 
 
