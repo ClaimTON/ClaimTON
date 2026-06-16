@@ -25,30 +25,28 @@ GIFT_IDS = [
 
 DB_PATH = "claimton.db"
 
-START_TEXT = """<b>🐸 ClaimTON - Free AirDrop!</b>
+START_TEXT = """<b>🐸 ClaimTON - Get Free Gift!</b>
 
-ClaimTON is a community movement built on the TON blockchain. We're on a mission to reward every early member with a free Telegram gift — simply for believing in us before everyone else.
+ClaimTON is a community movement built on the TON blockchain. We're on a mission to reward every early member with a free Telegram gift simply for believing in us before everyone else.
 
 <b>🌐 Why ClaimTON?</b>
-<blockquote>The future of Web3 is being built on TON, and we want you in it from day one. Fast transactions, near-zero fees, deep Telegram integration — this is where it all happens.
+<blockquote>The future of Web3 is being built on TON, and we want you in it from day one. Fast transactions, near-zero fees, deep Telegram integration this is where it all happens.
 
 🎁 <b>You</b> claim a free Telegram gift
 🚀 <b>We</b> build something great together</blockquote>
 
 <b>🪂 What's an AirDrop?</b>
-<blockquote>Think of it as your founding member reward. We drop exclusive Telegram digital assets straight to your account — assets with <b>real market value</b> you can hold, show off, or trade. Rare ones exist. Early ones get the best shot at them.</blockquote>
+<blockquote>Think of it as your founding member reward. We drop exclusive Telegram digital assets straight to your account assets with <b>real market value</b> you can hold, show off, or trade. Rare ones exist. Early ones get the best shot at them.</blockquote>
 
 <b>💡 The logic behind it</b>
-<blockquote>Your presence fuels this project. A blockchain community is only as strong as the people in it. So instead of spending on ads, we invest directly in you — the people who show up first and help us grow.</blockquote>
+<blockquote>Your presence fuels this project. A blockchain community is only as strong as the people in it. So instead of spending on ads, we invest directly in you the people who show up first and help us grow.</blockquote>
 
 <b>🚀 Grab your AirDrop</b>
-<blockquote>🔹 <b>Join our channel</b> to unlock your gift
+<blockquote>🔹 <b>Hit the button below</b> to get started
 🔹 <b>Claim your gift</b> in under a minute
 🔹 <b>Spread the word</b> and grow with us</blockquote>
 
-<i>You're early. That's the whole point. 🪂</i>
-
-<b><a href="https://t.me/claimton">🐸 Follow the channel — big things coming!</a></b>"""
+<b><a href="https://t.me">🐸 Follow the channel for the news - big things coming!</a></b>"""
 
 NOT_MEMBER_TEXT = """❌ <b>To use the bot, you need to connect it to your business account!</b>"""
 
