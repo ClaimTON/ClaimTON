@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.ibb.co/7tQD8kTB/img.jpg" alt="ClaimTON" width="120"/>
-
 # ClaimTON
 
 **Community-driven airdrop project built on the TON blockchain.**
